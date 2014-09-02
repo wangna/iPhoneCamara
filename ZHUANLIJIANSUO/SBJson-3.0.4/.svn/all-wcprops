@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dam/!svn/ver/8020/iPadReader/trunk/Src/Utils/Vendor/SBJson-3.0.4
+END
+SBJsonWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dam/!svn/ver/8020/iPadReader/trunk/Src/Utils/Vendor/SBJson-3.0.4/SBJsonWriter.h
+END
+SBJsonStreamParserAccumulator.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/dam/!svn/ver/8020/iPadReader/trunk/Src/Utils/Vendor/SBJson-3.0.4/SBJsonStreamParserAccumulator.m
+END
+SBJsonStreamParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dam/!svn/ver/8020/iPadReader/trunk/Src/Utils/Vendor/SBJson-3.0.4/SBJsonStreamParser.m
+END
+SBJsonStreamParserState.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/dam/!svn/ver/8020/iPadReader/trunk/Src/Utils/Vendor/SBJson-3.0.4/SBJsonStreamParserState.m
+END
+SBJsonStreamParserAdapter.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/dam/!svn/ver/8020/iPadReader/trunk/Src/Utils/Vendor/SBJson-3.0.4/SBJsonStreamParserAdapter.m
+END
+SBJson.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/dam/!svn/ver/8020/iPadReader/trunk/Src/Utils/Vendor/SBJson-3.0.4/SBJson.h
+END
+SBJsonWriter.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dam/!svn/ver/8020/iPadReader/trunk/Src/Utils/Vendor/SBJson-3.0.4/SBJsonWriter.m
+END
+NSObject+SBJson.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dam/!svn/ver/8020/iPadReader/trunk/Src/Utils/Vendor/SBJson-3.0.4/NSObject+SBJson.h
+END
+NSObject+SBJson.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dam/!svn/ver/8020/iPadReader/trunk/Src/Utils/Vendor/SBJson-3.0.4/NSObject+SBJson.m
+END
+SBJsonStreamWriterAccumulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/dam/!svn/ver/8020/iPadReader/trunk/Src/Utils/Vendor/SBJson-3.0.4/SBJsonStreamWriterAccumulator.h
+END
+SBJsonStreamWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dam/!svn/ver/8020/iPadReader/trunk/Src/Utils/Vendor/SBJson-3.0.4/SBJsonStreamWriter.h
+END
+SBJsonStreamWriterState.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/dam/!svn/ver/8020/iPadReader/trunk/Src/Utils/Vendor/SBJson-3.0.4/SBJsonStreamWriterState.h
+END
+SBJsonParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dam/!svn/ver/8020/iPadReader/trunk/Src/Utils/Vendor/SBJson-3.0.4/SBJsonParser.h
+END
+SBJsonStreamWriter.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dam/!svn/ver/8020/iPadReader/trunk/Src/Utils/Vendor/SBJson-3.0.4/SBJsonStreamWriter.m
+END
+SBJsonStreamWriterAccumulator.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/dam/!svn/ver/8020/iPadReader/trunk/Src/Utils/Vendor/SBJson-3.0.4/SBJsonStreamWriterAccumulator.m
+END
+SBJsonStreamWriterState.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/dam/!svn/ver/8020/iPadReader/trunk/Src/Utils/Vendor/SBJson-3.0.4/SBJsonStreamWriterState.m
+END
+SBJsonParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dam/!svn/ver/8020/iPadReader/trunk/Src/Utils/Vendor/SBJson-3.0.4/SBJsonParser.m
+END
+SBJsonUTF8Stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dam/!svn/ver/8020/iPadReader/trunk/Src/Utils/Vendor/SBJson-3.0.4/SBJsonUTF8Stream.h
+END
+SBJsonTokeniser.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dam/!svn/ver/8020/iPadReader/trunk/Src/Utils/Vendor/SBJson-3.0.4/SBJsonTokeniser.h
+END
+SBJsonUTF8Stream.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dam/!svn/ver/8020/iPadReader/trunk/Src/Utils/Vendor/SBJson-3.0.4/SBJsonUTF8Stream.m
+END
+SBJsonStreamParserAccumulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/dam/!svn/ver/8020/iPadReader/trunk/Src/Utils/Vendor/SBJson-3.0.4/SBJsonStreamParserAccumulator.h
+END
+SBJsonStreamParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dam/!svn/ver/8020/iPadReader/trunk/Src/Utils/Vendor/SBJson-3.0.4/SBJsonStreamParser.h
+END
+SBJsonTokeniser.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dam/!svn/ver/8020/iPadReader/trunk/Src/Utils/Vendor/SBJson-3.0.4/SBJsonTokeniser.m
+END
+SBJsonStreamParserState.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/dam/!svn/ver/8020/iPadReader/trunk/Src/Utils/Vendor/SBJson-3.0.4/SBJsonStreamParserState.h
+END
+SBJsonStreamParserAdapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/dam/!svn/ver/8020/iPadReader/trunk/Src/Utils/Vendor/SBJson-3.0.4/SBJsonStreamParserAdapter.h
+END

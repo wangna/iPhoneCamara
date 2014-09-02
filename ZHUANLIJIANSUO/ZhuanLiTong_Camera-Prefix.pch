@@ -1,0 +1,26 @@
+//
+// Prefix header for all source files of the 'ZHUANLIJIANSUO' target in the 'ZHUANLIJIANSUO' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+	#import <UIKit/UIKit.h>
+	#import <Foundation/Foundation.h>
+	#import "system.h"
+	#import "UserInfoManager.h"
+	#import <QuartzCore/CALayer.h>
+	#import "SoapHttpManager.h"
+	#import "LoadView.h"
+	#import "MBProgressHUD.h"
+//weibo share
+#import "WeiboSDK.h"
+
+#define kAppKey         @"302263580"
+#define kRedirectURI    @"http://www.sina.com"
+
+#endif
